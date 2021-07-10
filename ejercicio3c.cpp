@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>       /* time */
 using namespace std;
-#define N 120
+#define N 960
 
 int main(int argc, char *argv[]) {
     int me, numprocs;

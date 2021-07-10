@@ -1,0 +1,4 @@
+time was with 2 threads: 1686 microsegundos
+time was with 4 threads: 869 microsegundos
+time was with 8 threads: 2182 microsegundos
+time was with 16 threads: 1640 microsegundos

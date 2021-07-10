@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>       /* time */
 using namespace std;
-#define N 120
+#define N 320
 
 int main(int argc, char *argv[]) {
     int me, numprocs;
@@ -87,8 +87,8 @@ int main(int argc, char *argv[]) {
 }
 
 /*
-2 = 0.000260115
-4 = 0.000174761
-8 = 0.00127935
-16 = 0.137039
+2 = 0.000260115 s
+4 = 0.000174761 s
+8 = 0.00127935 s
+16 = 0.137039 s
 */
